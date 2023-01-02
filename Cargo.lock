@@ -166,7 +166,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "skeletor"
+name = "skeletrust"
 version = "0.1.0"
 dependencies = [
  "anyhow",
